@@ -1,0 +1,43 @@
+start = 27355513.3559414
+end = 27355514.4218844
+diff = 1.065942998975515
+Value of circle count : 67969517 
+Estimate of pi is: 1.88804214
+
+------------------------------------------------------------
+Sender: LSF System <lsfadmin@blade35-5>
+Subject: Job 878103: <./apc> Done
+
+Job <./apc> was submitted from host <login05> by user <mkotyad> in cluster <henry2>.
+Job was executed on host(s) <blade35-5>, in queue <debug>, as user <mkotyad> in cluster <henry2>.
+</home/mkotyad> was used as the home directory.
+</home/mkotyad> was used as the working directory.
+Started at Tue Feb 21 22:45:45 2012
+Results reported at Tue Feb 21 22:45:51 2012
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+./apc
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time   :      2.07 sec.
+    Max Memory :         1 MB
+    Max Swap   :        25 MB
+
+    Max Processes  :         1
+    Max Threads    :         1
+
+The output (if any) is above this job summary.
+
+
+
+PS:
+
+Read file <rese3_2> for stderr output of this job.
+

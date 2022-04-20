@@ -1,0 +1,86 @@
+start = 27355427.6196994
+end = 27355429.5825684
+diff = 1.962868999689817
+Value of circle count : 113097417 
+Estimate of pi is: 3.14159492
+
+------------------------------------------------------------
+Sender: LSF System <lsfadmin@blade35-5>
+Subject: Job 878091: <./apc> Done
+
+Job <./apc> was submitted from host <login05> by user <mkotyad> in cluster <henry2>.
+Job was executed on host(s) <blade35-5>, in queue <debug>, as user <mkotyad> in cluster <henry2>.
+</home/mkotyad> was used as the home directory.
+</home/mkotyad> was used as the working directory.
+Started at Tue Feb 21 22:44:24 2012
+Results reported at Tue Feb 21 22:44:26 2012
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+./apc
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time   :      1.97 sec.
+    Max Memory :         1 MB
+    Max Swap   :        25 MB
+
+    Max Processes  :         1
+    Max Threads    :         1
+
+The output (if any) is above this job summary.
+
+
+
+PS:
+
+Read file <rese3_1> for stderr output of this job.
+
+start = 51278996.37918469
+end = 51278998.34115769
+diff = 1.961973004043102
+Value of circle count : 113097417 
+Estimate of pi is: 3.14159492
+
+------------------------------------------------------------
+Sender: LSF System <lsfadmin@blade2j3-8>
+Subject: Job 878096: <./apc> Done
+
+Job <./apc> was submitted from host <login05> by user <mkotyad> in cluster <henry2>.
+Job was executed on host(s) <blade2j3-8>, in queue <debug>, as user <mkotyad> in cluster <henry2>.
+</home/mkotyad> was used as the home directory.
+</home/mkotyad> was used as the working directory.
+Started at Tue Feb 21 22:45:02 2012
+Results reported at Tue Feb 21 22:45:09 2012
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+./apc
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time   :      1.98 sec.
+    Max Memory :         1 MB
+    Max Swap   :        25 MB
+
+    Max Processes  :         1
+    Max Threads    :         1
+
+The output (if any) is above this job summary.
+
+
+
+PS:
+
+Read file <rese3_1> for stderr output of this job.
+
